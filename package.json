@@ -26,4 +26,5 @@
     "eslint": "^8",
     "eslint-config-next": "latest"
   }
+
 }
